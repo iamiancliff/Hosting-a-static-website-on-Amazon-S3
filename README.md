@@ -1,5 +1,5 @@
 
-# 🌐 Hosting a Static Website on Amazon S3
+# 🌐 Hosting a Static Website on Amazon Simple Storage Service(S3)
 
 ## 📌 Project Overview
 This project demonstrates how to host a static website (HTML + assets) on **Amazon S3**, leveraging its scalability, security, and cost-efficiency.

@@ -97,7 +97,7 @@ This project demonstrates how to host a static website (HTML + assets) on **Amaz
 
 ### ❌ NoSuchKey Error
 - **Cause**: `index.html` is missing or misnamed.
-- **Solution**: Re-upload and verify document name.
+- **Solution**: Re-upload and verify the document name.
 
 ### ❌ Mixed Content Errors (Images or CSS not loading)
 - **Cause**: Using `http://` or incorrect paths.
@@ -106,10 +106,10 @@ This project demonstrates how to host a static website (HTML + assets) on **Amaz
 ---
 
 ## 📜 Final Notes
-- **Cost**: S3 is very cheap for static sites (~$0.023/GB/month).
-- **Next Steps**:
-    - Use **CloudFront** for CDN distribution.
-    - Map a **custom domain** via **Route 53**.
+- Amazon S3 (Simple Storage Service) is an object storage service by AWS that
+ allows you to store and retrieve any amount of data from anywhere on the web.
+ Useful because it combines high scalability, security, and cost-efficiency,
+ making it adaptable.
 
 ---
 

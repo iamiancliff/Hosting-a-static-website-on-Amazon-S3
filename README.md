@@ -82,7 +82,7 @@ This project demonstrates how to host a static website (HTML + assets) on **Amaz
 - Open the **bucket endpoint URL** in a browser.
 - You should now see your static website.
 
-🖼️ *(Insert a screenshot of your site here)*
+🖼️ *Images/Web Hosting 4.png*
 
 ---
 
